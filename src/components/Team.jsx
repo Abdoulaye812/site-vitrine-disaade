@@ -40,7 +40,7 @@ function Team() {
     {
       name: "Abdoulaye DIALLO",
       role: "Développeur",
-      description: "Expert en développement full-stack et architecture logicielle.",
+      description: "Développeur full-stack spécialisé dans la conception et la réalisation d’applications web modernes.",
       image: dialloImg,
       linkedin: "https://linkedin.com",
       github: "https://github.com",
